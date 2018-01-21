@@ -1,4 +1,9 @@
-#module: (*.py) A module is a file containing Python definitions and statements. The file name is the module name with the suffix .py appended.
+Python modules and packages
+
+[Python modules and packages](https://docs.python.org/3/tutorial/modules.html)
+
+# module: (*.py) A module is a file containing Python definitions and statements. 
+The file name is the module name with the suffix .py appended.
 
 As your program gets longer, you may want to split it into several files for easier maintenance. You may also want to use a handy function that you’ve written in several programs without copying its definition into each program.
 Definitions from a module can be imported into other modules or into the main module.
@@ -19,7 +24,7 @@ a = func1(1000)
 from module1 import * 
 ```
 
-#package: 
+# package: 
 
 In on module, use classes in different module
 
