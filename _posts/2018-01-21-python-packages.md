@@ -19,12 +19,9 @@ from module1 import func1, class1
 a = func1(1000)
 ```
 
-```
-# import all names that a module defines:
-from module1 import * 
-```
+    # import all names that a module defines:
+    from module1 import * 
+
 
 # package: 
-
-In on module, use classes in different module
 
